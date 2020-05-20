@@ -6,6 +6,8 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("唐揚げ");
 		System.out.println("なぜかたまにすごく食べたくなるから");
+		
+		System.out.println("私も好きです");
 	}
 
 }
